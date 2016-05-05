@@ -12,7 +12,6 @@ namespace GitTestProject
         {
             //******
             //** Changes on the main program test
-            // Changes from feature 
             //****
         }
     }
