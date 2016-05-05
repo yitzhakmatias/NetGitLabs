@@ -1,1 +1,3 @@
 D:\work\code\GitLabs\GitTestProject\GitTestProject\bin\Debug\GitTestProject.exe.config
+D:\work\code\GitLabs\GitTestProject\GitTestProject\obj\Debug\GitTestProject.exe
+D:\work\code\GitLabs\GitTestProject\GitTestProject\obj\Debug\GitTestProject.pdb
