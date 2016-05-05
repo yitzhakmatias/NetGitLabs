@@ -1,3 +1,5 @@
-D:\work\code\GitLabs\GitTestProject\GitTestProject\bin\Debug\GitTestProject.exe.config
+D:\work\code\GitLabs\GitTestProject\GitTestProject\bin\Debug\GitTestProject.exe
+D:\work\code\GitLabs\GitTestProject\GitTestProject\bin\Debug\GitTestProject.pdb
+D:\work\code\GitLabs\GitTestProject\GitTestProject\obj\Debug\GitTestProject.csprojResolveAssemblyReference.cache
 D:\work\code\GitLabs\GitTestProject\GitTestProject\obj\Debug\GitTestProject.exe
 D:\work\code\GitLabs\GitTestProject\GitTestProject\obj\Debug\GitTestProject.pdb
