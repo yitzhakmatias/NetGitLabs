@@ -10,6 +10,9 @@ namespace GitTestProject
     {
         static void Main(string[] args)
         {
+            //******
+            //** Changes on the main program test
+            //****
         }
     }
 }
