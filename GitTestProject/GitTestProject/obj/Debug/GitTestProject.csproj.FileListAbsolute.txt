@@ -3,3 +3,6 @@ D:\work\code\GitLabs\GitTestProject\GitTestProject\bin\Debug\GitTestProject.pdb
 D:\work\code\GitLabs\GitTestProject\GitTestProject\obj\Debug\GitTestProject.csprojResolveAssemblyReference.cache
 D:\work\code\GitLabs\GitTestProject\GitTestProject\obj\Debug\GitTestProject.exe
 D:\work\code\GitLabs\GitTestProject\GitTestProject\obj\Debug\GitTestProject.pdb
+D:\NetGitLabs\GitTestProject\GitTestProject\bin\Debug\GitTestProject.exe.config
+D:\NetGitLabs\GitTestProject\GitTestProject\obj\Debug\GitTestProject.exe
+D:\NetGitLabs\GitTestProject\GitTestProject\obj\Debug\GitTestProject.pdb
