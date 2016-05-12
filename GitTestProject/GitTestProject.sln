@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitTestProject", "GitTestProject\GitTestProject.csproj", "{3AEFBDEF-D9C5-4472-8DBA-9ECA83522718}"
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AngularApp", "AngularApp\", "{28BE4C59-5A8A-4C77-8013-FC90B897905C}"
 	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_1103"
 		Debug.AspNetCompiler.PhysicalPath = "AngularApp\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1103\"
